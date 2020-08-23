@@ -1,0 +1,5 @@
+if not logged in - show login button in home page 
+not logged_in edit/destroy/create should not be seen
+
+
+if logged in - welcome user_name

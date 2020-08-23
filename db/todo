@@ -1,0 +1,4 @@
+user has many articles 
+article belongs to user
+has many associations 
+active record associations

@@ -1,0 +1,5 @@
+1. modified migration table to input user id 
+
+2 if logged in user id is not equal to article user id 
+      comment allow
+      if current_user.id != @article.user_id
